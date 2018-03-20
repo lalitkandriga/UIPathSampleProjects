@@ -1,0 +1,14 @@
+{
+  "name": "DataAggretorBot",
+  "description": "Project",
+  "main": "C:\\Users\\knkla\\Documents\\RPA-Projects\\JobApplier\\SampleProjects\\DataAggretorBot\\DataAgregatorBot.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6652.34417",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
