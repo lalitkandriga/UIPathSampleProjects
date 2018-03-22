@@ -1,0 +1,14 @@
+{
+  "name": "IfLoopPractice",
+  "description": "Practice on Flowcharts and if loops",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6654.34646",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
